@@ -433,6 +433,7 @@ module_order:
   - theta2
   - snpeff
   - gatk
+  - sentieon
   - htseq
   - bcftools
   - featurecounts
